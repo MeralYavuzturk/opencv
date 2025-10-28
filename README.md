@@ -1,6 +1,6 @@
 ## OPENCV İLE YÜZ TANIMA
 ### Bu proje, bir web kamerası akışı üzerinden gerçek zamanlı yüz algılama ve temel yüz tanıma gerçekleştiren bir windows form uygulamasıdır. Proje,görüntü işleme için .NET ortamında popüler olan **EMGUCV** kütüphanesini kullanır.
-### Çalıştırılabilir zip dosyası linki
+### Çalıştırılabilir zip dosyası linki:https://github.com/MeralYavuzturk/opencv/releases/tag/v1.0.0
 ### ✨Özellikler
 * Gerçek Zamanlı Görüntü Akışı(Web kamerasından anlık görüntü yakalama.)
 * Yüz Algılama(Görüntüdeki yüzleri hızlı bir şekilde tespit etme ve kırmızı çerçeve içine alma.)
